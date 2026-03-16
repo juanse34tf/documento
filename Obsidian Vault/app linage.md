@@ -1,0 +1,1 @@
+entretenimineto : netflix ,  disney directv go  pero en la pnatalla principal

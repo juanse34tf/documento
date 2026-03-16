@@ -1,0 +1,841 @@
+{
+  "main": {
+    "id": "cf60a992c6067cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "720e8a0fe9fa6075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "252191f47da0a1f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "f1f8a9b8fa62198a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metamask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "metamask"
+            }
+          },
+          {
+            "id": "5536bd8887c04051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metamask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "metamask"
+            }
+          },
+          {
+            "id": "f16b2adead02776e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.7"
+            }
+          },
+          {
+            "id": "020a7840c34a097e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System_arbitrage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System_arbitrage"
+            }
+          },
+          {
+            "id": "e9e9bc0df46ec1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metamask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "metamask"
+            }
+          },
+          {
+            "id": "6a9d91dd9e995ec2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "afe279193fc5410e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "media movil cruce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "media movil cruce"
+            }
+          },
+          {
+            "id": "7078d2b5c9eecb7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "automatización Hotmart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "automatización Hotmart"
+            }
+          },
+          {
+            "id": "9a7f4ed53a2356de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "automatización Hotmart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "automatización Hotmart"
+            }
+          },
+          {
+            "id": "37005c9676ad3df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agente ia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agente ia"
+            }
+          },
+          {
+            "id": "39a5b71a1937cd8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automtizacion youtube.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automtizacion youtube"
+            }
+          },
+          {
+            "id": "e8ab4c1e02f65949",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "012bbec7150aa158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automtizacion youtube.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automtizacion youtube"
+            }
+          },
+          {
+            "id": "c43399561124f649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "automatización Hotmart.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "automatización Hotmart"
+            }
+          },
+          {
+            "id": "a027e64c896e4a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "automatización Hotmart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "automatización Hotmart"
+            }
+          },
+          {
+            "id": "2524e642ab9dd970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codigo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "codigo"
+            }
+          },
+          {
+            "id": "216e00267773b4b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codigo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "codigo"
+            }
+          },
+          {
+            "id": "10f41c16ab477d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESmeraldas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ESmeraldas"
+            }
+          },
+          {
+            "id": "c231cd12ab6e1178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taller 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taller 2"
+            }
+          },
+          {
+            "id": "f1eb575cd7fca53e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taller 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taller 2"
+            }
+          },
+          {
+            "id": "db1f219865e5d45f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fisicaexpo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fisicaexpo"
+            }
+          },
+          {
+            "id": "bd28ad731ce6ec85",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "a78495c3f6d7be0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "f0f671083fc5c9d8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sin título 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título 2"
+            }
+          },
+          {
+            "id": "6e2eb18f03ea52b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Claude api.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude api"
+            }
+          },
+          {
+            "id": "7632b7db97a2e1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema_Alertas_Inventario_n8n.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema_Alertas_Inventario_n8n"
+            }
+          },
+          {
+            "id": "2743c2257a70d281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linage ISP/Análisis de Rendimiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Análisis de Rendimiento"
+            }
+          },
+          {
+            "id": "d6676345089de555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "twa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "twa"
+            }
+          },
+          {
+            "id": "62ab928de4d7c73d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linage ISP - Sistema de Autenticacion Hibrida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linage ISP - Sistema de Autenticacion Hibrida"
+            }
+          },
+          {
+            "id": "cc22c2475c22776d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ia ciberseguridad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ia ciberseguridad"
+            }
+          },
+          {
+            "id": "3de95fd86d471028",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.12"
+            }
+          },
+          {
+            "id": "3a51b0388e4796dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "heroku.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "heroku"
+            }
+          },
+          {
+            "id": "8643882134f66b79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "heroku.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "heroku"
+            }
+          },
+          {
+            "id": "8e3fdcb31025222d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.14"
+            }
+          },
+          {
+            "id": "db8dabe3b602f490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bot Whatsapp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bot Whatsapp"
+            }
+          },
+          {
+            "id": "d5ae5b730364754f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.10.3"
+            }
+          },
+          {
+            "id": "b3454bb873f1e486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "d1aef910773a42c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mongo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mongo"
+            }
+          },
+          {
+            "id": "fd9c1537ab2bc122",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.11.5"
+            }
+          },
+          {
+            "id": "c052e564d65a1047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 1"
+            }
+          },
+          {
+            "id": "d35d8857aeae4b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 2"
+            }
+          },
+          {
+            "id": "6255cb1940580240",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.11.7"
+            }
+          },
+          {
+            "id": "546e60d9a8023eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crm linage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "crm linage"
+            }
+          },
+          {
+            "id": "46064f7a6b814ee0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "b74f4d526f04e5e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeneria de softaware.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ingeneria de softaware"
+            }
+          },
+          {
+            "id": "9ebb36a5eee03a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesin invetario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pentesin invetario"
+            }
+          }
+        ],
+        "currentTab": 46
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f7a5150771ed56a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5cda188c4415cf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "027d6eeaf507018e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "be4a53bfbe814b11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "203e0dba5a7126b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37007b38c29aef7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "208906c536553f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f889d23099937950",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "metamask.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de metamask"
+            }
+          },
+          {
+            "id": "690e8d25124aff9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "metamask.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de metamask"
+            }
+          },
+          {
+            "id": "a4ea3b2ba8d5fea1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "81fa51b5eb1cdde6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "metamask.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de metamask"
+            }
+          },
+          {
+            "id": "c0e1b7803866818f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9ebb36a5eee03a6e",
+  "lastOpenFiles": [
+    "Ingeneria de softaware.md",
+    "pentesin invetario.md",
+    "app linage.md",
+    "Linage ISP/desktop.ini",
+    "desktop.ini",
+    "crm linage.md",
+    "Sin título 2.md",
+    "Sin título 1.md",
+    "Sin título.md",
+    "mongo.md",
+    "Bot Whatsapp.md",
+    "Claude api.md",
+    "Linage ISP/Análisis de Rendimiento.md",
+    "pagina web.md",
+    "heroku.md",
+    "Pasted image 20250923201318.png",
+    "Linage ISP/Sistema de Alimentacion Diaria LINA - WhatsApp Reports.md",
+    "Linage ISP - Sistema de Autenticacion Hibrida.md",
+    "ia ciberseguridad.md",
+    "Linage ISP/Requisitos del Sistema.md",
+    "twa.md",
+    "Configuración Firebase Genkit.md",
+    "Linage ISP/README.md",
+    "Linage ISP/Análisis Original.md",
+    "Pasted image 20250426195202.png",
+    "Pentesting.md",
+    "Linage ISP/Entrenamiento IA Linage.md",
+    "Linage ISP",
+    "Sistema_Alertas_Inventario_n8n.md",
+    "Hotmart + n8n.md",
+    "MONGODB.md",
+    "Sin título 2.canvas",
+    "Sin título 1.canvas",
+    "Sin título.canvas"
+  ]
+}
